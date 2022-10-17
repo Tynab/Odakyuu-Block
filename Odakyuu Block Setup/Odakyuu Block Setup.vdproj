@@ -64,13 +64,13 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_6CC3DDE9C4CA9F5427B406977BF7995B"
+        "OwnerKey" = "8:_FA7B30D042D845A1BB2B227C9C6B4AC7"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_FA7B30D042D845A1BB2B227C9C6B4AC7"
+        "OwnerKey" = "8:_6CC3DDE9C4CA9F5427B406977BF7995B"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -123,6 +123,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
     }
     "Deployable"
@@ -359,15 +367,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:小田急ブロック"
-        "ProductCode" = "8:{5AC70916-49D5-4113-B891-02CA6EE14ACB}"
-        "PackageCode" = "8:{6FB32B71-FEF7-4C1E-97E0-2178F61BBD16}"
+        "ProductCode" = "8:{D5D7BFEA-893B-4078-AFDD-B0DBC79F3606}"
+        "PackageCode" = "8:{35F61A1D-52D9-4FE6-875C-6D30C3337965}"
         "UpgradeCode" = "8:{20264FC6-CE52-4924-A1B3-7C06A31EDB3C}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:FALSE"
-        "ProductVersion" = "8:22.10.16"
+        "ProductVersion" = "8:22.10.17"
         "Manufacturer" = "8:YAN"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:"
