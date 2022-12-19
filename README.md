@@ -1,5 +1,5 @@
-# ODAKYUU BLOCK SOLUTION
-Solution to help 西山 team of エマール group calculate ブロック of 小田急 from 文化シャッター partner.
+# ODAKYUU BLOCK TOOL
+Tool to help 西山 team of エマール group calculate ブロック of 小田急 from 文化シャッター partner.
 
 ## MASK
 <p align="center">
